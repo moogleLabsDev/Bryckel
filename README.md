@@ -46,7 +46,7 @@ This platform allows users to upload, query, manage, and interact with PDF files
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/PDF-Management-Platform.git
+   git clone https://github.com/moogleLabsDev/Bryckel.git
    cd Bryckel
    ```
 
